@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.sstatic.net/UgUho.png
+avatar: https://www.researchgate.net/publication/349119878/figure/fig26/AS:11431281115501092@1674960554568/LCR-lattice-for-capacitors-in-parallel-with-inductors.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
