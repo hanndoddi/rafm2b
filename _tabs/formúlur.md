@@ -2,8 +2,8 @@
 # the default layout is 'page'
 title: Formúlur
 layout: post
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-solid fa-square-root-variable
+order: 5
 toc: true
 math: true
 ---
