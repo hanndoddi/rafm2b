@@ -11,19 +11,19 @@ toc: true
 
 ### Raðtenging
 
-$R_h = R_1 + R_2 + \dots + R_n$
+$$R_h = R_1 + R_2 + \dots + R_n$$
 
-$\frac{1}{C_h} = \frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}$
+$$\frac{1}{C_h} = \frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}$$
 
-$L_h = L_1 + L_2 + \dots + L_n$
+$$L_h = L_1 + L_2 + \dots + L_n$$
 
 ### Hliðtenging
 
-$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$
+$$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$$
 
-$C_h = C_1 + C_2 + \dots + C_n$
+$$C_h = C_1 + C_2 + \dots + C_n$$
 
-$\frac{1}{L_h} = \frac{1}{L_1} + \frac{1}{L_2} + \dots + \frac{1}{L_n}$
+$$\frac{1}{L_h} = \frac{1}{L_1} + \frac{1}{L_2} + \dots + \frac{1}{L_n}$$
 
 ## Þéttar
 
@@ -31,9 +31,9 @@ $\frac{1}{L_h} = \frac{1}{L_1} + \frac{1}{L_2} + \dots + \frac{1}{L_n}$
 
 Tímastuðull (τ):
 
-$\tau = RC$
+$$\tau = RC$$
 
 ### í AC rás
 
-$X_C = \frac{1}{2\pi f C}$
+$$X_C = \frac{1}{2\pi f C}$$
 
