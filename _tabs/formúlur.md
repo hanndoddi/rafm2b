@@ -11,9 +11,9 @@ toc: true
 
 ### Raðtenging
 
-$$R_h = R_1 + R_2 + \dots + R_n$$
+$$ R_h = R_1 + R_2 + \dots + R_n $$
 
-$$\frac{1}{C_h} = \frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}$$
+$$ \frac{1}{C_h} = \frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n} $$
 
 $$L_h = L_1 + L_2 + \dots + L_n$$
 
