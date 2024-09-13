@@ -38,3 +38,9 @@ $$\tau = RC$$
 
 $$X_C = \frac{1}{2\pi f C}$$
 
+## Síur
+
+### RC sía
+
+$$f_c = \frac{1}{2 \pi RC}$$
+
