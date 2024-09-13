@@ -38,6 +38,8 @@ $$\tau = RC$$
 
 $$X_C = \frac{1}{2\pi f C}$$
 
+$$Z_f = \sqrt{R^2 + X_C^2}$$
+
 ## Síur
 
 ### RC sía
